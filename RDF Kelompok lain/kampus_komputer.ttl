@@ -1,0 +1,88 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dbp: <http://dbpedia.org/property/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@base  <http://dbpedia.org/page/>.
+
+<Gadjah_Mada_University>       dbp:name "Universitas Gajah Mada" ;
+                                dc:subject "Ilmu Komputer" ;
+                                dc:type "Unggul";
+                                dc:date "2023-09-30".
+<University_of_Indonesia> dc:hasPart _:ID1, _:ID2.
+_:ID1                           dbp:name "Universitas Indonesia" ;
+                                dc:subject "Teknik Komputer";
+                                dc:type "Unggul";
+                                dc:date "2021-11-01".
+_:ID2                          dbp:name "Universitas Indonesia" ;
+                                dc:subject "Ilmu Komputer" ;
+                                dc:type "A";
+                                dc:date "2022-01-10".
+<Universitas_Bina_Nusantara> dc:hasPart _:ID3, _:ID4.
+_:ID3      dbp:name "Universitas Bina Nusantara" ;
+                                dc:subject "Sistem Komputer" ;
+                                dc:type "Unggul";
+                                dc:date "2021-09-30".
+_:ID4      dbp:name "Universitas Bina Nusantara" ;
+                                dc:subject "Teknik Informatika	" ;
+                                dc:type "A";
+                                dc:date "2024-05-14".								
+<Sepuluh_Nopember_Institute_of_Technology>      dbp:name "Institut Teknologi Sepuluh Nopember" ;
+                                                dc:subject "Teknik Komputer" ;
+                                                dc:type "A";
+                                                dc:date "2025-04-01".
+<Indonesia_University_of_Education>     dbp:name "Universitas Pendidikan Indonesia" ;
+                                        dc:subject "Ilmu Komputer" ;
+                                        dc:type "A";
+                                        dc:date "2025-08-25".
+<Universitas_Gunadarma> dc:hasPart _:ID4, _:ID5.
+_:ID4    dbp:name "Universitas Gunadarma" ;
+                            dc:subject "Sistem Komputer" ;
+                            dc:type "A";
+                            dc:date "2024-09-17".
+_:ID5    dbp:name "Universitas Gunadarma" ;
+                            dc:subject "Teknik Informatika	" ;
+                            dc:type "A";
+                            dc:date "2024-07-23".
+<University_of_North_Sumatra> 	dbp:name "Universitas Sumatera Utara" ;
+									dc:subject "Ilmu Komputer" ;
+									dc:type "A";
+									dc:date "2024-05-21".
+<Bogor_Agricultural_University>     dbp:name "Institut Pertanian Bogor" ;
+                                    dc:subject "Ilmu Komputer" ;
+                                    dc:type "A";
+                                    dc:date "2022-10-31".
+<Universitas_Lampung>       dbp:name "Universitas Lampung" ;
+                            dc:subject "Ilmu Komputer" ;
+                            dc:type "A";
+                            dc:date "2021-11-24".
+<Bandung_Institute_of_Technology> 	dbp:name "Institut Teknologi Bandung" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "Unggul";
+									dc:date "2026-09-30".
+<Esa_Unggul_University> 			dbp:name "Universitas Esa Unggul" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "A";
+									dc:date "2025-03-18".
+<Sam_Ratulangi_University> 			dbp:name "Universitas Sam Ratulangi" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "A";
+									dc:date "2025-08-11".
+<Universitas_Dian_Nuswantoro> 	dbp:name "Universitas Dian Nuswantoro" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "A";
+									dc:date "2025-09-04".
+<Padjadjaran_University> 	dbp:name "Universitas Padjadjaran	" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "A";
+									dc:date "2025-10-06".
+<Universitas_Surabaya> 	dbp:name "Universitas Surabaya" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "A";
+									dc:date "2024-10-31".
+<Universitas_Tarumanagara> 	dbp:name "Universitas Tarumanagara" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "A";
+									dc:date "2025-10-27	".
+<Universitas_Presiden> 	dbp:name "Universitas Presiden	" ;
+									dc:subject "Teknik Informatika" ;
+									dc:type "A";
+									dc:date "2024-04-09".

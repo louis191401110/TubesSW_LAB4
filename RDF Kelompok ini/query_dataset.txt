@@ -1,0 +1,13 @@
+prefix dbp:   <https://wiki.dbpedia.org/#> 
+prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?Nama_Klub ?Main ?Menang ?Seri ?Kalah ?Poin
+
+WHERE {
+  ?club dbp:namaKlub ?Nama_Klub .
+  ?club dbp:main ?Main .
+  ?club dbp:menang ?Menang .
+  ?club dbp:seri ?Seri .
+  ?club dbp:kalah ?Kalah .
+  ?club dbp:poin ?Poin .
+} ORDER BY Desc (?Menang) Desc (?Seri)

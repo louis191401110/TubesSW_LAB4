@@ -1,0 +1,11 @@
+prefix dc: <http://purl.org/dc/elements/1.1/>
+prefix dbp: <http://dbpedia.org/property/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+                                   
+SELECT ?name ?subject ?type ?date
+WHERE{
+	?sub dbp:name ?name.
+	?sub dc:subject ?subject.
+	?sub dc:type ?type.
+	?sub dc:date ?date.
+} ORDERBY ?subject

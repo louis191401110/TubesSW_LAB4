@@ -1,0 +1,7 @@
+Sebelum membuka web, lakukanlah langkah-langkah berikut:
+1. Copy file yang ada di folder dataset apache jena fuseki 
+2. Buka folder instalasi apache jena fuseki anda
+3. Buka Folder run
+4. Buka Folder configuration
+5. Paste kan ke dalam folder configuration.
+6. Upload data rdf dari folder RDF. Sesuaikan dataset dengan RDF nya.

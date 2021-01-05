@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dbp="https://wiki.dbpedia.org/#">
+
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Liverpool_F.C.">
+	<dbp:namaKlub>Liverpool</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>9</dbp:menang>
+    <dbp:seri>4</dbp:seri>
+    <dbp:kalah>1</dbp:kalah>
+    <dbp:poin>31</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Everton_F.C.">
+	<dbp:namaKlub>Everton</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>9</dbp:menang>
+    <dbp:seri>2</dbp:seri>
+    <dbp:kalah>4</dbp:kalah>
+    <dbp:poin>29</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Leicester_City_F.C.">
+	<dbp:namaKlub>Leicester City</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>9</dbp:menang>
+    <dbp:seri>1</dbp:seri>
+    <dbp:kalah>5</dbp:kalah>
+    <dbp:poin>28</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Manchester_United_F.C.">
+	<dbp:namaKlub>Manchester United</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>8</dbp:menang>
+    <dbp:seri>3</dbp:seri>
+    <dbp:kalah>3</dbp:kalah>
+    <dbp:poin>27</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Manchester_City_F.C.">
+	<dbp:namaKlub>Manchester City</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>7</dbp:menang>
+    <dbp:seri>5</dbp:seri>
+    <dbp:kalah>2</dbp:kalah>
+    <dbp:poin>26</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Aston_Villa_F.C.">
+	<dbp:namaKlub>Aston Villa</dbp:namaKlub>
+    <dbp:main>13</dbp:main>
+    <dbp:menang>8</dbp:menang>
+    <dbp:seri>1</dbp:seri>
+    <dbp:kalah>4</dbp:kalah>
+    <dbp:poin>25</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Chelsea_F.C.">
+	<dbp:namaKlub>Chelsea</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>7</dbp:menang>
+    <dbp:seri>4</dbp:seri>
+    <dbp:kalah>4</dbp:kalah>
+    <dbp:poin>25</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Tottenham_Hotspur_F.C.">
+	<dbp:namaKlub>Tottenham</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>7</dbp:menang>
+    <dbp:seri>4</dbp:seri>
+    <dbp:kalah>3</dbp:kalah>
+    <dbp:poin>25</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Southampton_F.C.">
+	<dbp:namaKlub>Southampton</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>7</dbp:menang>
+    <dbp:seri>4</dbp:seri>
+    <dbp:kalah>4</dbp:kalah>
+    <dbp:poin>25</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/West_Ham_United_F.C.">
+	<dbp:namaKlub>West Ham</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>6</dbp:menang>
+    <dbp:seri>3</dbp:seri>
+    <dbp:kalah>5</dbp:kalah>
+    <dbp:poin>21</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.">
+	<dbp:namaKlub>Wolves</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>6</dbp:menang>
+    <dbp:seri>2</dbp:seri>
+    <dbp:kalah>6</dbp:kalah>
+    <dbp:poin>20</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Newcastle_United_F.C.">
+	<dbp:namaKlub>Newcastle</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>5</dbp:menang>
+    <dbp:seri>3</dbp:seri>
+    <dbp:kalah>6</dbp:kalah>
+    <dbp:poin>18</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Crystal_Palace_F.C.">
+	<dbp:namaKlub>Crystal Palace</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>5</dbp:menang>
+    <dbp:seri>3</dbp:seri>
+    <dbp:kalah>7</dbp:kalah>
+    <dbp:poin>18</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Arsenal_F.C.">
+	<dbp:namaKlub>Arsenal</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>5</dbp:menang>
+    <dbp:seri>2</dbp:seri>
+    <dbp:kalah>8</dbp:kalah>
+    <dbp:poin>17</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Leeds_United_F.C.">
+	<dbp:namaKlub>Leeds</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>5</dbp:menang>
+    <dbp:seri>2</dbp:seri>
+    <dbp:kalah>7</dbp:kalah>
+    <dbp:poin>17</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Burnley_F.C.">
+	<dbp:namaKlub>Burnley</dbp:namaKlub>
+    <dbp:main>13</dbp:main>
+    <dbp:menang>3</dbp:menang>
+    <dbp:seri>4</dbp:seri>
+    <dbp:kalah>6</dbp:kalah>
+    <dbp:poin>13</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C.">
+	<dbp:namaKlub>Brighton</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>2</dbp:menang>
+    <dbp:seri>6</dbp:seri>
+    <dbp:kalah>6</dbp:kalah>
+    <dbp:poin>12</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Fulham_F.C.">
+	<dbp:namaKlub>Fulham</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>2</dbp:menang>
+    <dbp:seri>5</dbp:seri>
+    <dbp:kalah>8</dbp:kalah>
+    <dbp:poin>11</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/West_Bromwich_Albion_F.C.">
+	<dbp:namaKlub>West Brom</dbp:namaKlub>
+    <dbp:main>14</dbp:main>
+    <dbp:menang>1</dbp:menang>
+    <dbp:seri>4</dbp:seri>
+    <dbp:kalah>9</dbp:kalah>
+    <dbp:poin>7</dbp:poin>
+</rdf:Description>
+    
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Sheffield_United_F.C.">
+	<dbp:namaKlub>Sheffield United</dbp:namaKlub>
+    <dbp:main>15</dbp:main>
+    <dbp:menang>0</dbp:menang>
+    <dbp:seri>2</dbp:seri>
+    <dbp:kalah>13</dbp:kalah>
+    <dbp:poin>2</dbp:poin>
+</rdf:Description>
+		
+</rdf:RDF>	
+	
